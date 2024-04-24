@@ -5,7 +5,7 @@
     </head>
     <body>
         <center>
-        <img src="c:\Users\black\OneDrive\Desktop\Logo\logo Black.png" height="700" width="1500">
+        <img src="logo Black.png" height="700" width="1500">
         <span style="color: black"><h1>Wellcome to
         <span style="color: blue;">
             parrot's Diary</h1>
